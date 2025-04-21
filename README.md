@@ -11,7 +11,7 @@ Hopefully when presented with this page, people will get a look into who I am as
 
 * HTML
 * CSS
-*JavaScript
+* JavaScript
 * Flexbox
 * Google Fonts
 
